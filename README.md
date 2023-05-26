@@ -1,1 +1,3 @@
-# sharks are NOT dogs
+$ git rm readme.md
+$ git commit
+$ git push
